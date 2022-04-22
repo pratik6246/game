@@ -4,7 +4,7 @@ This project was generated with HTML,CSS,Javascript .
 
 ## Development server
 
-Go live in VScode and it will open in your difult browser . The app will automatically reload if you change any of the source files.
+Go live in VScode and it will open in your default browser . The app will automatically reload if you change any of the source files.
 
 ## Further help
 
