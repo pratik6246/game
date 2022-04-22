@@ -1,4 +1,4 @@
-# game
+# Game
 
 This project was generated with HTML,CSS,Javascript .
 
